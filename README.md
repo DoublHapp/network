@@ -1,5 +1,6 @@
 # ATM Project
-本项目是根据自定义协议[RFC20222022](https://shimo.im/docs/d1hLMvSAfjJ7uq9l )来编码实现的。
+本项目是一次计算机网络课程实验，根据自定义协议[RFC20222022](https://shimo.im/docs/d1hLMvSAfjJ7uq9l )编码实现。主要实现ATM机与服务器之间的简单业务。
 ## 数据库依赖
+本项目使用了Mysql数据库，
 ## 客户端实现
 ## 服务器端实现
