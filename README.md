@@ -9,5 +9,5 @@
 [TCP_Connection.java](Client/TCP_Connection.java)：该文件为程序入口，实现了与服务端的连接
 ## 服务器端实现
 [DatabaseConnection.java](Server/DatabaseConnection.java)：该文件中实现了与MySQL数据库的连接\
-[MainClass.java]：该文件为程序入口，并实现了服务端的逻辑框架\
+[MainClass.java](Server/MainClass.java)：该文件为程序入口，并实现了服务端的逻辑框架\
 [MessageHandle.java]：该文件实现了处理客户端报文的类和方法
