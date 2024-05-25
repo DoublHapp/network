@@ -6,7 +6,7 @@
 [Login.java](Client/Login.java)：该文件中定义并实现了登录的GUI界面\
 [MainClass.java](Client/MainClass.java)：该文件中定义并实现了登录成功后的操作GUI界面\
 [MessageHandle.java](Client/MessageHandle.java)：该文件中实现了对服务端报文进行处理的类和方法\
-[TCP_Connection.java]：该文件为程序入口，实现了与服务端的连接
+[TCP_Connection.java](Client/TCP_Connection.java)：该文件为程序入口，实现了与服务端的连接
 ## 服务器端实现
 [DatabaseConnection.java]：该文件中实现了与MySQL数据库的连接\
 [MainClass.java]：该文件为程序入口，并实现了服务端的逻辑框架\
