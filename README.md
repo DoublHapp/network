@@ -3,4 +3,11 @@
 ## 数据库依赖
 本项目使用了Mysql数据库，并使用Java的[mysql-connector-j-8.3.0.jar](lib/mysql-connector-j-8.3.0.jar)进行数据库连接。
 ## 客户端实现
+Login.java：该文件中定义并实现了登录的GUI界面
+MainClass.java：该文件中定义并实现了登录成功后的操作GUI界面
+MessageHandle.java：该文件中实现了对服务端报文进行处理的类和方法
+TCP_Connection.java：该文件为程序入口，实现了与服务端的连接
 ## 服务器端实现
+DatabaseConnection.java：该文件中实现了与MySQL数据库的连接
+MainClass.java：该文件为程序入口，并实现了服务端的逻辑框架
+MessageHandle.java：该文件实现了处理客户端报文的类和方法
